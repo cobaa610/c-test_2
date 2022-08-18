@@ -1,0 +1,13 @@
+C:\Users\HP\Documents\Tjan Vinder\1 LETNIK\NP\Loterrija\Loterrija\obj\Debug\netcoreapp3.1\Loterrija.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Tjan Vinder\1 LETNIK\NP\Loterrija\Loterrija\obj\Debug\netcoreapp3.1\Loterrija.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Tjan Vinder\1 LETNIK\NP\Loterrija\Loterrija\obj\Debug\netcoreapp3.1\Loterrija.AssemblyInfo.cs
+C:\Users\HP\Documents\Tjan Vinder\1 LETNIK\NP\Loterrija\Loterrija\obj\Debug\netcoreapp3.1\Loterrija.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Tjan Vinder\1 LETNIK\NP\Loterrija\Loterrija\bin\Debug\netcoreapp3.1\Loterrija.exe
+C:\Users\HP\Documents\Tjan Vinder\1 LETNIK\NP\Loterrija\Loterrija\bin\Debug\netcoreapp3.1\Loterrija.deps.json
+C:\Users\HP\Documents\Tjan Vinder\1 LETNIK\NP\Loterrija\Loterrija\bin\Debug\netcoreapp3.1\Loterrija.runtimeconfig.json
+C:\Users\HP\Documents\Tjan Vinder\1 LETNIK\NP\Loterrija\Loterrija\bin\Debug\netcoreapp3.1\Loterrija.runtimeconfig.dev.json
+C:\Users\HP\Documents\Tjan Vinder\1 LETNIK\NP\Loterrija\Loterrija\bin\Debug\netcoreapp3.1\Loterrija.dll
+C:\Users\HP\Documents\Tjan Vinder\1 LETNIK\NP\Loterrija\Loterrija\bin\Debug\netcoreapp3.1\Loterrija.pdb
+C:\Users\HP\Documents\Tjan Vinder\1 LETNIK\NP\Loterrija\Loterrija\obj\Debug\netcoreapp3.1\Loterrija.dll
+C:\Users\HP\Documents\Tjan Vinder\1 LETNIK\NP\Loterrija\Loterrija\obj\Debug\netcoreapp3.1\Loterrija.pdb
+C:\Users\HP\Documents\Tjan Vinder\1 LETNIK\NP\Loterrija\Loterrija\obj\Debug\netcoreapp3.1\Loterrija.genruntimeconfig.cache
