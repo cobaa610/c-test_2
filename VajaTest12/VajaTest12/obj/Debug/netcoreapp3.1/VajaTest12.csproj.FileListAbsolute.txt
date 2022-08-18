@@ -1,0 +1,14 @@
+F:\Napredno_Avgust\VajaTest12\VajaTest12\bin\Debug\netcoreapp3.1\VajaTest12.exe
+F:\Napredno_Avgust\VajaTest12\VajaTest12\bin\Debug\netcoreapp3.1\VajaTest12.deps.json
+F:\Napredno_Avgust\VajaTest12\VajaTest12\bin\Debug\netcoreapp3.1\VajaTest12.runtimeconfig.json
+F:\Napredno_Avgust\VajaTest12\VajaTest12\bin\Debug\netcoreapp3.1\VajaTest12.runtimeconfig.dev.json
+F:\Napredno_Avgust\VajaTest12\VajaTest12\bin\Debug\netcoreapp3.1\VajaTest12.dll
+F:\Napredno_Avgust\VajaTest12\VajaTest12\bin\Debug\netcoreapp3.1\VajaTest12.pdb
+F:\Napredno_Avgust\VajaTest12\VajaTest12\obj\Debug\netcoreapp3.1\VajaTest12.csproj.AssemblyReference.cache
+F:\Napredno_Avgust\VajaTest12\VajaTest12\obj\Debug\netcoreapp3.1\VajaTest12.GeneratedMSBuildEditorConfig.editorconfig
+F:\Napredno_Avgust\VajaTest12\VajaTest12\obj\Debug\netcoreapp3.1\VajaTest12.AssemblyInfoInputs.cache
+F:\Napredno_Avgust\VajaTest12\VajaTest12\obj\Debug\netcoreapp3.1\VajaTest12.AssemblyInfo.cs
+F:\Napredno_Avgust\VajaTest12\VajaTest12\obj\Debug\netcoreapp3.1\VajaTest12.csproj.CoreCompileInputs.cache
+F:\Napredno_Avgust\VajaTest12\VajaTest12\obj\Debug\netcoreapp3.1\VajaTest12.dll
+F:\Napredno_Avgust\VajaTest12\VajaTest12\obj\Debug\netcoreapp3.1\VajaTest12.pdb
+F:\Napredno_Avgust\VajaTest12\VajaTest12\obj\Debug\netcoreapp3.1\VajaTest12.genruntimeconfig.cache
